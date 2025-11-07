@@ -289,7 +289,7 @@ text
 
 Mistral models require specific chat template formatting:
 
-<s><|im_start|>system
+<|im_start|>system
 [System instruction]<|im_end|>
 <|im_start|>user
 [User message]<|im_end|>
